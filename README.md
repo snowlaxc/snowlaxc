@@ -92,6 +92,7 @@ I keep growing with a focus on data engineering and MLOps.
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0B1D33?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snowlaxc)
+[![Blog](https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@snowlaxc)
 [![Email](https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snowlaxc@gmail.com)
 
 </div>
