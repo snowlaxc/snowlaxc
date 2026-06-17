@@ -81,7 +81,7 @@ I keep growing with a focus on data engineering and MLOps.
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snowlaxc&hide_border=true&area=true&bg_color=0B1D33&color=CAF0F8&line=4CC9F0&point=90E0EF&area_color=4CC9F0&title_color=4CC9F0&cb=20260616)](https://github.com/snowlaxc)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=snowlaxc&hide_border=true&area=true&bg_color=0B1D33&color=CAF0F8&line=4CC9F0&point=90E0EF&area_color=4CC9F0&title_color=4CC9F0&cb=20260617)](https://github.com/snowlaxc)
 
 </div>
 
